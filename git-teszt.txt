@@ -1,0 +1,5 @@
+Ez itt egy Git teszt.
+
+Teszt 1
+Teszt 2
+Teszt 3
